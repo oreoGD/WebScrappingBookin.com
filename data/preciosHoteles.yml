@@ -1,0 +1,14 @@
+hoteles:
+    css: 'div.a826ba81c4:nth-of-type(n+4)'
+    xpath: null
+    multiple: true
+    type: Text
+    children:
+        nombreHotel:
+            css: div.fcab3ed991
+            xpath: null
+            type: Text
+        precio:
+            css: span.fcab3ed991
+            xpath: null
+            type: Text
